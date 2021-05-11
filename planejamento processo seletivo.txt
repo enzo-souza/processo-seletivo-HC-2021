@@ -26,7 +26,21 @@ fontes para verificação de referências."
 		Por fim, avaliaremos as qualidades que não foram especificadas no anuncio. Pensei desta forma para ser 
 		algo expontâneo do candidato e que ele não se sinta precionado a contar sobre alguma qualidade que talvez
 		tenha
-		
+
+ENTREVISTA:
+	No artigo [2], a entrevista:
+"entrevista abrange sondar áreas que não
+podem ser abordadas com facilidade nos formulários e testes de emprego, como a
+avaliação da motivação, a capacidade de trabalhar sob pressão e a capacidade de
+se “ajudar” na organização."
+	
+	Ainda não coloquei aqui as principais caracteristicas que queremos no HC mas, como dito pelo miguel, o 
+	processo seletivo funcionará como um funil. Contudo, não serei tão criterioso na entrevista pois boa parte da
+	seleção será feita no curriculo e, principalmente, no teste.
+
+	Como dito, a entrevista será a parte final e isso implica que os candidatos já passaram por dois funis. Pretendo 
+	apenas dar informações gerais sobre a entidade e como ela funcionará. sobre os candidatos, avaliarei por cima 
+	a validade das informações passadas no "curriculo" e no teste.
 
 bibliografia:
 -  [1] RECRUTAMENTO E SELEÇÃO DE PESSOAL: 
