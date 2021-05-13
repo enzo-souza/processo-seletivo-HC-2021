@@ -5,6 +5,33 @@ baseado em 3 etapas:
 - teste
 - entrevista
 
+PERFIL PROCURADO:
+	Para elaborar todo o processo seletivo preciso esclarecer muito bem qual é o perfil de pessoa que precisamos no HC.
+	Primeiramente, é de vontade do Miguel que entre grande número de pessoas para a entidade.(aproximadamente o mesmo
+	que entrou da última vez.) Isso leva a  crer que mesmo que tenhamos um perfil, não precisamos ser tão criteriosos.
+	Vale lembrar que o miguel deixou bem claro que não vamos nos atentar aos números.
+
+	Conversando no grupo do executivo, escalamos os perfis desejados:
+	1º engajamento
+ 	2º proatividade
+	3º autodidata
+
+	Essas caracteristicas serão selecionadas a partir das etapas do processo. cada etapa uma característica.
+	Como o engajamento é a mais importante, vou selecionar essa parte pelo teste, para ser mais completo.
+	(Esta parte do onde selecionarei o que ainda não está bem definida)
+	
+
+POST:
+	muitas caracteristicas dos anuncios para recrutamnento ditas no livro base [1], são de cunho marketeiro. Como preciso
+	interferir nessa parte, vou me atentar a não estrapolar o que me cabe. Portanto irei apenas colocar aqui o que será
+	preciso estar logo no anuncio.
+
+	- caracteristicas que precisariamos dentro da entidade, como por exemplo: pessoas que saibam editar vídeos ou
+	pessoas com conhecimentos tecnicos avançados
+	- conteúdo de estudo para o teste
+
+	(a ver o que colocarei mais)
+
 CURRICULO:
 	Como dito no artigo base [1], o curriculo:
 
@@ -26,6 +53,19 @@ fontes para verificação de referências."
 		Por fim, avaliaremos as qualidades que não foram especificadas no anuncio. Pensei desta forma para ser 
 		algo expontâneo do candidato e que ele não se sinta precionado a contar sobre alguma qualidade que talvez
 		tenha
+
+TESTE:
+	Segundo o artigo de base, [2], existem diversis tipos de testes: 
+"Existe grande variedade de testes utilizados pelos selecionadores, como 
+instrumentos acessórios a entrevistas de seleção que são: teste prático utilizado para 
+avaliar um determinado conhecimento ou prática de trabalho; teste situacional, 
+serve para avaliar candidatos em determinadas situações práticas do dia a dia; teste 
+psicológico, instrumento que permite avaliar e mensurar características específicas 
+dos indivíduos; e teste grafológico análise da escrita individual, através da qual se 
+pode concluir sobre dezenas de traços da personalidade."
+
+	Para as caracteristicas que queremos dentro do Green Team, acredito que precisamos realiar o teste pratico e, 
+ 	eventualmente, o teste grafologico. (agora, 22:26 - 10/05/2021, vou listar as caracteristicas que precisamos)
 
 ENTREVISTA:
 	No artigo [2], a entrevista:
