@@ -16,9 +16,16 @@ PERFIL PROCURADO:
  	2º proatividade
 	3º autodidata
 
-	Essas caracteristicas serão selecionadas a partir das etapas do processo. cada etapa uma característica.
-	Como o engajamento é a mais importante, vou selecionar essa parte pelo teste, para ser mais completo.
-	(Esta parte do onde selecionarei o que ainda não está bem definida)
+	as caracteristicas serão separadas no processo na parte de de FUNCIONAMENTO, logo abaixo.
+
+	
+FUNCIONAMENTO:
+	Agora que pensei em tudo e expliquei os porquês, vamos pensar na prática em si.
+	
+	Em primeiro lugar, temos 3 principais caracteristicas e o ideal é que cada etapa do processo selecione uma delas.
+	A principal etapa será o teste e nele será selecionado o engajamento. A segunda caracteristica mais importante será
+	a proatividade que ficará para a parte do currículo. Já o Autodidatismo será avaliado na entrevista como foi feito
+	no ano passado. 
 	
 
 POST:
