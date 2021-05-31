@@ -1,46 +1,47 @@
----processo seletivo 2021---
-
-baseado em 3 etapas: 
-- curriculo
+﻿baseado em 3 etapas: 
+- currículo
 - teste
 - entrevista
 
+
 PERFIL PROCURADO:
-	Para elaborar todo o processo seletivo preciso esclarecer muito bem qual é o perfil de pessoa que precisamos no HC.
-	Primeiramente, é de vontade do Miguel que entre grande número de pessoas para a entidade.(aproximadamente o mesmo
-	que entrou da última vez.) Isso leva a  crer que mesmo que tenhamos um perfil, não precisamos ser tão criteriosos.
-	Vale lembrar que o miguel deixou bem claro que não vamos nos atentar aos números.
+        Para elaborar todo o processo seletivo preciso esclarecer muito bem qual é o perfil de pessoa que precisamos no HC.
+        Primeiramente, é da vontade do Miguel que entre grande número de pessoas para a entidade.(aproximadamente o mesmo que entrou da última vez.) Isso leva a  crer que mesmo que tenhamos um perfil, não precisamos ser tão criteriosos. Vale lembrar que o miguel deixou bem claro que não vamos nos atentar aos números.
 
-	Conversando no grupo do executivo, escalamos os perfis desejados:
-	1º engajamento
- 	2º proatividade
-	3º autodidata
 
-	as caracteristicas serão separadas no processo na parte de de FUNCIONAMENTO, logo abaixo.
+        Conversando, escalamos os perfis desejados:
+        1º engajamento
+         2º proatividade
+        3º autodidata
 
-	
+
+        As características serão separadas no processo na parte de FUNCIONAMENTO, logo abaixo.
+
+
+        
 FUNCIONAMENTO:
-	Agora que pensei em tudo e expliquei os porquês, vamos pensar na prática em si.
-	
-	Em primeiro lugar, temos 3 principais caracteristicas e o ideal é que cada etapa do processo selecione uma delas.
-	A principal etapa será o teste e nele será selecionado o engajamento. A segunda caracteristica mais importante será
-	a proatividade que ficará para a parte do currículo. Já o Autodidatismo será avaliado na entrevista como foi feito
-	no ano passado. 
-	
+        Agora que pensei em tudo e expliquei os porquês, vamos pensar na prática em si.
+        A primeira etapa, que será de recrutamento, servirá apenas para coletar dados essenciais dos candidatos. O Miguel pediu para que eu enxutasse o máximo possível, a fim de não desanimar nenhum candidato já na parte de inscrição.
+A segunda parte ainda será  o teste mas, ele ajudará nessa parte pois ele quer algo mais técnico e que seja uma amostra do que a pessoa verá dentro da entidade.
+A parte da entrevista servirá para o candidato mostrar suas habilidades. tirei muita coisa do forms de recrutamento que serviria como norte para a entrevista. como precisarei dessa parte curricular, jogarei algumas perguntas junto do teste, em forma de texto.  
+        
+
 
 POST:
-	muitas caracteristicas dos anuncios para recrutamnento ditas no livro base [1], são de cunho marketeiro. Como preciso
-	interferir nessa parte, vou me atentar a não estrapolar o que me cabe. Portanto irei apenas colocar aqui o que será
-	preciso estar logo no anuncio.
+        muitas caracteristicas dos anuncios para recrutamnento ditas no livro base [1], são de cunho marketeiro. Como preciso interferir nessa parte, vou me atentar a não extrapolar o que me cabe. Portanto irei apenas colocar aqui o que será preciso estar logo no anuncio.
 
-	- caracteristicas que precisariamos dentro da entidade, como por exemplo: pessoas que saibam editar vídeos ou
-	pessoas com conhecimentos tecnicos avançados
-	- conteúdo de estudo para o teste
 
-	(a ver o que colocarei mais)
+        - características que precisariamos dentro da entidade, como por exemplo: pessoas que saibam editar vídeos ou pessoas com conhecimentos técnicos avançados
+
+
+        (a ver o que colocarei mais)
+
 
 CURRICULO:
-	Como dito no artigo base [1], o curriculo:
+
+
+        Como dito no artigo base [1], o currículo:
+
 
  "os currículos têm vários propósitos, bem como informações
 que permitem decidir se o candidato atende aos requisitos
@@ -49,20 +50,21 @@ para a formulação de perguntas que o entrevistado fará
 sobre a experiência anterior do candidato, bem como
 fontes para verificação de referências." 
 
-	portanto, pensei em fazer da seguinte forma:
-		pedir, já no anúncio do processo, para o candidato enviar uma carta à nós.
-		Nesta carta, ele se apresentaria e diria o porque se interessou na entidade.
-		ps. 21/05: o conteudo da carta que pediremos ainda não está definitivo
 
-	forma de avaliação:
-		No anuncio, colocariamos alguns tópicos que serviriam como diferencial para o candidato. Sempre que algum
-		candidato disser e argumentar que possui esses diferenciais, já ganhará pontos.
-		Por fim, avaliaremos as qualidades que não foram especificadas no anuncio. Pensei desta forma para ser 
-		algo expontâneo do candidato e que ele não se sinta precionado a contar sobre alguma qualidade que talvez
-		tenha
+        portanto, pensei em fazer da seguinte forma:
+                
+                A parte curricular será feita junto do teste, ainda em forma de uma carta. O                 conteúdo desta será sobre as experiências do candidato, de forma que ele
+            mostre à nós o que tem a oferecer.
+
+
+        forma de avaliação:
+                No anuncio, colocariamos alguns tópicos que serviriam como diferencial para o candidato. Sempre que algum candidato disser e argumentar que possui esses diferenciais, já ganhará pontos.
+                Por fim, avaliamos as qualidades que não foram especificadas no anúncio. Pensei desta forma (não anunciar algumas qualidades) para ser algo espontâneo do candidato e que ele não se sinta pressionado a contar sobre alguma qualidade que talvez
+não tenha
+
 
 TESTE:
-	Segundo o artigo de base, [2], existem diversis tipos de testes: 
+        Segundo o artigo de base, [2], existem diversos tipos de testes: 
 "Existe grande variedade de testes utilizados pelos selecionadores, como 
 instrumentos acessórios a entrevistas de seleção que são: teste prático utilizado para 
 avaliar um determinado conhecimento ou prática de trabalho; teste situacional, 
@@ -71,30 +73,28 @@ psicológico, instrumento que permite avaliar e mensurar características espec�
 dos indivíduos; e teste grafológico análise da escrita individual, através da qual se 
 pode concluir sobre dezenas de traços da personalidade."
 
-	Para as caracteristicas que queremos dentro do Green Team, acredito que precisamos realiar o teste pratico e, 
- 	eventualmente, o teste grafologico. (agora, 22:26 - 10/05/2021, vou listar as caracteristicas que precisamos)
+
+        Para as características que queremos dentro do Green Team, acredito que precisamos realizar o teste prático e, eventualmente, o teste grafológico. (agora, 22:26 - 10/05/2021, vou listar as características que precisamos)
+
+
+
+
+
 
 ENTREVISTA:
-	No artigo [2], a entrevista:
+        No artigo [2], a entrevista:
 "entrevista abrange sondar áreas que não
 podem ser abordadas com facilidade nos formulários e testes de emprego, como a
 avaliação da motivação, a capacidade de trabalhar sob pressão e a capacidade de
 se “ajudar” na organização."
-	
-	Ainda não coloquei aqui as principais caracteristicas que queremos no HC mas, como dito pelo miguel, o 
-	processo seletivo funcionará como um funil. Contudo, não serei tão criterioso na entrevista pois boa parte da
-	seleção será feita no curriculo e, principalmente, no teste.
+        
+        Como dito pelo Miguel, o processo seletivo funcionará como um funil. Contudo, não serei tão criterioso na entrevista pois boa parte da seleção será feita no currículo e, principalmente, no teste.
+        Como dito, a entrevista servirá para avaliar e validar as informações obtidas pela etapa curricular. Além disso, ela também servirá para conhecer o perfil do candidato, se ele será uma pessoa passiva, extrovertida e etc.
 
-	Como dito, a entrevista será a parte final e isso implica que os candidatos já passaram por dois funis. Pretendo 
-	apenas dar informações gerais sobre a entidade e como ela funcionará. sobre os candidatos, avaliarei por cima 
-	a validade das informações passadas no "curriculo" e no teste.
 
-bibliografia:
+BIBLIOGRAFIA:
 -  [1] RECRUTAMENTO E SELEÇÃO DE PESSOAL: 
    COMO AGREGAR TALENTOS À EMPRESA1
 
+
 -  [2] Gestao-de-Pessoas-o-Novo-Papel-Idalberto-Chiavenato
-
-
-trabalho do dia 10/05:
-		-leitura de base para praparação do curriculo
