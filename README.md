@@ -7,4 +7,6 @@ Pensei em colocar aqui para poder ver o que escrevi hoje e diferenciar do que es
 
 OBS: algumas etapas ou documentos do processo não podem estar públicas. Em casos como estes, os documentos serão lançados no Drive da entidade
 
+em diversos momentos será dito o nome do Miguel, que é o presidente da entidade. Por mais que o processo esteja sendo feito por mim, ele é o dono da última palavra e tudo deve estar da vontade dele. Constantemente haverão mpdificações a pedido dele.
+
 este reporitorio não terá programação ou codigo.
